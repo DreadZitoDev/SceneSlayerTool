@@ -26,7 +26,7 @@ namespace ScenesListTool.Editor
             // string path = res[0].Replace("SceneSlayerTool.cs", "").Replace("\\", "/");
             //var icon = (Texture2D)AssetDatabase.LoadAssetAtPath($"{path}SceneSlayerIcon.png", typeof(Texture2D));
             var icon = AssetDatabase.LoadAssetAtPath<Texture2D>(
-                "Packages/com.DreadZitoDev.SceneSlayerTool/Editor/SceneSlayerIcon.png"
+                "Packages/com.dreadzitodev.sceneslayertoolpackage/Editor/SceneSlayerIcon.png"
             );
             window.titleContent = new GUIContent("SceneSlayer", icon);
             window.Show();

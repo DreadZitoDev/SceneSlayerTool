@@ -1,5 +1,5 @@
 {
-    "name": "com.DreadZitoDev.SceneSlayerTool",
+    "name": "com.dreadzitodev.sceneslayertoolpackage",
     "version": "1.0.0",
     "displayName": "SCENE SLAYER TOOL™",
     "description": "Scene Slayer Tool is a handy Unity editor extension that helps you organize and manage your project's scenes like a pro!\nThis tool is used to generate a list of scenes in the current project.\nIt is useful for projects that have a lot of scenes and need to keep track of them, or just to have a quick reference of all the scenes in the project.",
